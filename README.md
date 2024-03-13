@@ -1,5 +1,5 @@
 # Trick1-cube
- **This wrote with HTML5,Css3**
+ **This Trick wrote with HTML5,Css3**
 
 <br></br>
 
