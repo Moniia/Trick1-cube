@@ -5,7 +5,7 @@
 
 
 
-🔗 [[Demo Project](https://moniia.github.io/IPhone/)]
+🔗 [[Demo Project](https://moniia.github.io/Trick1-cube/)]
 
 👩🏻‍💻 Developed by Mona Aminian
 
